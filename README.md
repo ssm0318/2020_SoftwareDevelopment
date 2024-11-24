@@ -1,11 +1,13 @@
 # M1522.002400 Principles and Practices of Software Development (2020)
 
-Project Wiki: [https://github.com/swsnu/swpp2020-team8/wiki](https://github.com/swsnu/swpp2020-team8/wiki)
+**Project Wiki: [https://github.com/swsnu/swpp2020-team8/wiki](https://github.com/swsnu/swpp2020-team8/wiki)**
+
+Final Grade: A+  
 
 ## Course Schedule
 
 | Week  | Lecture | Practice Session | Homework / Project / Exam |
-|-------|---------|------------------|---------------------------|
+|-------|---------|--------------w----|---------------------------|
 |9/2 | Course overview | Environment Setup + Python + HTML/Javascript (DOM) | HW1 out 9/2 |
 |9/7,9| Challenges to make software; Version control | Git | HW2 out 9/9, <br/> HW1 due 9/11 6pm, <br/> Team formation due 9/13 (Sun) 6pm |
 |9/14,16 | SaaS architecture; Building software; ORM | React | HW2 due 9/18 6pm |
@@ -23,4 +25,3 @@ Project Wiki: [https://github.com/swsnu/swpp2020-team8/wiki](https://github.com/
 |12/7,9 | TBD | Testing Session | |
 |12/17 | Project poster session | | Project final report (due 12/18 6pm) |
 
-Final Grade: A+
